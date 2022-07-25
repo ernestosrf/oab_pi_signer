@@ -1311,7 +1311,7 @@ footer {
     position: absolute;
     width: 490px;
     height: 105px;
-    left: 49px;
+    left: 69px;
     top: 57px;   
     font-family: 'Inter';
     font-style: normal;
@@ -1357,8 +1357,8 @@ footer #yt {
     position: absolute;
     width: 361.51px;
     height: 21px;
-    left: 49px;
-    top: 200px;    
+    left: 69px;
+    top: 180px;    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -1371,8 +1371,8 @@ footer #yt {
     position: absolute;
     width: 27px;
     height: 27px;
-    left: 375.62px;
-    top: 225px;
+    left: 395.62px;
+    top: 205px;
 }
 
 #rights {
